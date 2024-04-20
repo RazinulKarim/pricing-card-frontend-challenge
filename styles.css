@@ -20,6 +20,7 @@ h2, h4, p {
  box-shadow: 9px 11px 57px -15px rgba(191,191,191,1);
   border-radius: 5px;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 #top-section {
